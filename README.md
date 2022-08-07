@@ -8,7 +8,7 @@
  - Root { [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2 }
  - MagiskFrida { **[Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.2-1/MagiskFrida-15.2.2-1.zip)** Magisk }
 
-<br>
+##
 
 #### 1. instale o Termux: <br><br> [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png" width="78">](https://f-droid.org/repo/com.termux_118.apk)    
 
