@@ -16,7 +16,7 @@
     apt update && apt upgrade && apt update && apt install python -y && apt install tsu -y && pip install wheel && pip install frida-tools
 > Depois de instalar o módulo MagiskFrida, Termux e pacotes necessários, podemos já usar o **Frida**!
 
-#### 3. comandos do Frida.
+#### 3. comandos do Frida:
  - verificar se o Frida instalou:
    > frida --version
  - comando de ajuda:
