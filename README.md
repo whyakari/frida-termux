@@ -25,9 +25,9 @@
 <br>
 
 __Mais informações aqui__:
-  > [Documentação Frida](https://frida.re/docs) </br>
-  > [Frida-Android](https://frida.re/docs/examples/android/) <br>
-  > [<img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4" width="30">](https://github.com/frida)
+  > Documentação Frida [<img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4" width="20x100">](https://frida.re/docs) </br>
+  > Frida-Android [<img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4" width="20x100">](https://frida.re/docs/examples/android/) <br>
+  > [](https://github.com/frida)
 
 __Correções de erros, comente aqui__: <br>
    1. BootLoop Fixed [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/SakutaOficial/Frida-Termux/issues/1#issue-1331129541)
