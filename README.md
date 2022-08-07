@@ -10,7 +10,7 @@
 
 <br>
 
-#### 1. instale o Termux: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png">](https://f-droid.org/repo/com.termux_118.apk)
+#### 1. instale o Termux: <br><br> [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png" width="78">](https://f-droid.org/repo/com.termux_118.apk)    
 
 #### 2. pacotes necessários no Termux:
     apt update && apt upgrade && apt update && apt install python -y && apt install tsu -y && pip install wheel && pip install frida-tools
@@ -26,4 +26,5 @@
 
 __Mais informações aqui__:
   > [Documentação Frida](https://frida.re/docs) </br>
-  > [Frida-Android](https://frida.re/docs/examples/android/)
+  > [Frida-Android](https://frida.re/docs/examples/android/) <br>
+  > [<img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4" width="30">](https://github.com/frida)
