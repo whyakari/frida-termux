@@ -4,7 +4,7 @@
 ###
 
 **Requisitos**: 
- - Termux [v118](https://f-droid.org/repo/com.termux_118.apk) </br>
+ - Termux [v118](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-20/termux-app_v0.118.0-20+apt-android-7-github-debug_universal.apk) </br>
  - Root { [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2 }
  - MagiskFrida { **[Módulo](https://github.com/ViRb3/magisk-frida/releases/download/16.0.1-1/MagiskFrida-16.0.1-1.zip)** Magisk }
 
