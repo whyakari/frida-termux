@@ -10,7 +10,7 @@
 
 ##
 
-#### 1. instale o Termux: <br><br> [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png" width="78">](https://f-droid.org/repo/com.termux_118.apk)    
+#### 1. instale o Termux: <br><br> [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png" width="78">](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-20/termux-app_v0.118.0-20+apt-android-7-github-debug_universal.apk)    
 
 #### 2. pacotes necessários no Termux:
     apt update && apt upgrade; pkg in -y root-repo; pkg in -y frida-python; apt install python -y; apt install tsu -y; pip install wheel; pip install frida-tools
