@@ -13,7 +13,7 @@
 #### 1. instale o Termux: <br><br> [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/240px-Termux.svg.png" width="78">](https://f-droid.org/repo/com.termux_118.apk)    
 
 #### 2. pacotes necessários no Termux:
-    apt update && apt upgrade && apt update && apt install python -y && apt install tsu -y && pip install wheel && pip install frida-tools
+    apt update && apt upgrade; pkg in -y root-repo; pkg in -y frida-python; apt install python -y; apt install tsu -y; pip install wheel; pip install frida-tools
 > Depois de instalar o módulo MagiskFrida, Termux e pacotes necessários, podemos já usar o **Frida**!
 
 #### 3. comandos do Frida:
