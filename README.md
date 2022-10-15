@@ -6,7 +6,7 @@
 **Requisitos**: 
  - Termux [v118](https://f-droid.org/repo/com.termux_118.apk) </br>
  - Root { [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2 }
- - MagiskFrida { **[Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.2-1/MagiskFrida-15.2.2-1.zip)** Magisk }
+ - MagiskFrida { **[Módulo](https://github.com/ViRb3/magisk-frida/releases/download/16.0.1-1/MagiskFrida-16.0.1-1.zip)** Magisk }
 
 ##
 
