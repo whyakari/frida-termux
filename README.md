@@ -32,3 +32,11 @@ __Mais informações aqui__:
 __Correções de erros, comente aqui__: <br>
    1. BootLoop Fixed [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/SakutaOficial/Frida-Termux/issues/1#issue-1331129541)
    2. Issues [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/SakutaOficial/Frida-Termux/issues/)
+
+---
+
+> if you think my work is cool or want to help me, make a small donation <3
+#### send for btc address
+```
+ bc1qut3e70aakpdqgmc6ymva9tu92gme5g7w2h75hy
+```
