@@ -38,5 +38,5 @@ __Correções de erros, comente aqui__: <br>
 > if you think my work is cool or want to help me, make a small donation <3
 #### send for btc address
 ```
- bc1qut3e70aakpdqgmc6ymva9tu92gme5g7w2h75hy
+ bc1qluadws0x8822urvhdufdeft4rs0ay290drlkpu
 ```
