@@ -17,9 +17,9 @@
 > **read** [#here](https://github.com/whyakari/frida-termux/issues/3#issue-1762058184) **first**
 
 #### 3. Comandos do Frida:
- - verificar se o Frida está instalado:
+ - **verificar se o Frida está instalado**:
    > frida --version
- - para mais comandos, use:
+ - **para mais comandos, use**:
    > frida --help
 
 <br>
