@@ -5,7 +5,7 @@
 
 **Requisitos**: 
  - [Termux](https://github.com/HardcodedCat/termux-monet/releases) </br>
- - [Root-Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2
+ - [Root](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2
  - **[MagiskFrida Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
 
 ##
