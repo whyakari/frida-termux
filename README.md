@@ -10,7 +10,7 @@
 
 ##
 
-#### 1. instale o Termux: <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="78">](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk)    
+#### 1. instale o Termux: <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width="78">](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk)    
 
 #### 2. pacotes necessários no Termux:
     apt update && apt upgrade; pkg in -y root-repo; pkg in -y frida-python; apt install python -y; apt install tsu -y; pip install wheel; pip install frida-tools==10.8.0
