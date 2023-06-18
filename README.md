@@ -13,8 +13,8 @@
 #### 1. Instale o Termux: <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width="78">](https://github.com/HardcodedCat/termux-monet/releases)    
 
 #### 2. Instale os pacotes:
-    apt update && apt upgrade; pkg in -y root-repo; pkg in -y frida-python; apt install python -y; apt install tsu -y; pip install wheel; pip install frida-tools==10.8.0
-> Depois de instalar o módulo MagiskFrida, Termux e pacotes necessários, podemos já usar o **Frida**!
+    apt update && apt upgrade; pkg in -y root-repo; pkg in subversion -y; clear; svn export https://github.com/AkariOficial/termux-packages/trunk/python3.10.8; cd python3.10.8; dpkg -i *.deb; cd; rm -rf python3.10.8; apt install tsu -y; pip install wheel; pip install frida-tools==10.8.0
+> **read** [#here](https://github.com/whyakari/frida-termux/issues/3#issue-1762058184) **first**
 
 #### 3. Comandos do Frida:
  - verificar se o Frida está instalado:
