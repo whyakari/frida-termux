@@ -5,7 +5,7 @@
 
 **Requisitos**: 
  - [Termux](https://github.com/HardcodedCat/termux-monet/releases) </br>
- - [Root](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2
+ - [Root](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) **>= 25.2**
  - **[MagiskFrida Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
 
 ##
@@ -29,7 +29,8 @@ __Mais informações aqui__:
   > Frida-Android [<img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4" width="20x100">](https://frida.re/docs/examples/android/) <br>
   > [](https://github.com/frida)
 
-__Correções de erros, comente aqui__: <br>
+-----
+__Correções de erros:__ <br>
    1. BootLoop Fixed [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/1#issue-1331129541)
    2. Issues [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/)
 
