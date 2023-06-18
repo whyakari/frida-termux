@@ -4,13 +4,13 @@
 ###
 
 **Requisitos**: 
- - [Termux](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk) </br>
+ - [Termux](https://github.com/HardcodedCat/termux-monet/releases) </br>
  - [Root-Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2
  - **[MagiskFrida Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
 
 ##
 
-#### 1. instale o Termux: <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width="78">](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk)    
+#### 1. instale o Termux: <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width="78">](https://github.com/HardcodedCat/termux-monet/releases)    
 
 #### 2. pacotes necessários no Termux:
     apt update && apt upgrade; pkg in -y root-repo; pkg in -y frida-python; apt install python -y; apt install tsu -y; pip install wheel; pip install frida-tools==10.8.0
