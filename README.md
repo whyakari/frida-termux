@@ -4,9 +4,9 @@
 ###
 
 **Requisitos**: 
- - Termux(with Monet-You) [v118](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk) </br>
- - Root { [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2 }
- - MagiskFrida { **[Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)** Magisk }
+ - [Termux](https://github.com/HardcodedCat/termux-monet/releases/download/v0.118.0-24/termux-app_v0.118.0-24+apt-android-7-github-debug_universal.apk) </br>
+ - [Root-Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) >= 25.2
+ - **[MagiskFrida Módulo](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
 
 ##
 
