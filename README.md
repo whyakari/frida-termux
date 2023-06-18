@@ -32,6 +32,7 @@ __Mais informações aqui__:
 -----
 __Correções de erros:__ <br>
    1. BootLoop Fixed [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/1#issue-1331129541)
-   2. Issues [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/)
+   2. frida not work in Py3.11+ [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/3#issue-1762058184)
+   3. Issues [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="80x100">](https://github.com/whyakari/Frida-Termux/issues/)
 
 ----
