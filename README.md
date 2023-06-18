@@ -1,5 +1,5 @@
 ## Frida-Termux (Android)
-> Frida no android, usando o Termux. __ROOT__
+> **Frida no android com Termux**.
 
 ###
 
