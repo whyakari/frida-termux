@@ -6,7 +6,7 @@
 **Requirements**
  - [Termux](https://github.com/HardcodedCat/termux-monet/releases) </br>
  - [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk) / [KSU](https://github.com/whyakari/kernel_Moe_ginkgo)
- - **[MagiskFrida](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
+ - **[Frida](https://github.com/ViRb3/magisk-frida/releases/download/15.2.1-1/MagiskFrida-15.2.1-1.zip)**
 
 ##
 
