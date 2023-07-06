@@ -10,6 +10,13 @@
 
 ##
 
+#### 0. SELinux mode has to `permissive` for to run Frida (Android 12+)
+```
+su
+setenforce 0
+```
+> check with `getenforce` if it worked, if it returned **permissive**, it means it worked. If you want to go back to default use `setenforce 1` or just reboot system.
+
 #### 1. Install Termux <br><br> [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width="78">](https://github.com/HardcodedCat/termux-monet/releases)    
 
 #### 2. Install pkg's in Termux
