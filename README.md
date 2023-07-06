@@ -5,7 +5,7 @@
 
 **Requirements**
  - **[Termux](https://github.com/HardcodedCat/termux-monet/releases)** </br>
- - **[Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk)** / **[KSU](https://github.com/whyakari/kernel_Moe_ginkgo)**
+ - **[Magisk](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk)** or **[KSU](https://github.com/whyakari/kernel_Moe_ginkgo)**
  - **[Frida-Server](https://github.com/frida/frida/releases/download/15.2.2/frida-server-15.2.2-android-arm64.xz)**
 
 ##
